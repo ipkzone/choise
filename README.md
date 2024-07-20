@@ -13,7 +13,7 @@ Register Bot [Choise](https://app.choise.ai/?ref=361725).<br>
 ```bash
 $ git clone https://github.com/ipkzone/choise.git
 $ cd choise
-$ php main.php
+$ php choise.php
 ```
 
 # installer termux-php-hmsc
